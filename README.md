@@ -26,13 +26,27 @@
 
 ## About
 
-...
+As a French citizen, the election periods are always great moments. Television only talks about this, everyone has his analysis and it often ends up in a big argument between left-wingers, right-wingers and those who don't care.
+
+Trought this project,  I want to provide an analysis of French elections results for people like me who became allergic to media  and their fruitless discussions.
+This  work is not intended to influence the choices of anyone and does not contain any information about my own convictions. It is not a political analysis but an objective presentation of the data of these events.
+
+And to make it a little more interesting, I will try to see if there are any correlations to determine the choice of a part of the population.
+This part is intended to be more entertaining than rigorous, but maybe we will find some suprises
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 ### Built Witdh
 
-...
+- [Jupyter Notebook](https://jupyter.org/)
+- [Python](https://www.python.org/)
+  - [GeoPandas](https://geopandas.org/en/stable/)
+  - [NumPy](https://numpy.org/)
+  - [pandas](https://pandas.pydata.org/)
+  - [Plotly](https://plotly.com/)
+  - [Unidecode](https://github.com/takluyver/Unidecode)
+
+
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
@@ -40,7 +54,9 @@
 
 ## Data Sources
 
-...
+To ensure the validity of the analysis, all the data used in this project came from the [data.gouv.fr](https://www.data.gouv.fr/) platform, supplied and maintained by the French Government.
+
+For each dataset used, a static stable link to the source is provided.
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
@@ -56,6 +72,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgments
 
-...
+All the acknowledgements are included within each analysis.
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
